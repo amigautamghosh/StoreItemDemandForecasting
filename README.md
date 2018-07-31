@@ -25,8 +25,8 @@ B.	Categorical features
 •sales - Number of items sold at a particular store on a particular date.
 
 Feature Engineering
-Name: We have used a maximum of 16 features.
-Date: We Charectorised  this field into weekofyear,dayofweek,day,weekday,weekday_name,dayofyear,quarter,is_month_start,is_month_end,is_quarter_start,is_quarter_end,is_year_start,is_year_end,freq,daysinmonth etc 
+We have used a maximum of 16 features.
+Date: We categorised  this field into weekofyear,dayofweek,day,weekday,weekday_name,dayofyear,quarter,is_month_start,is_month_end,is_quarter_start,is_quarter_end,is_year_start,is_year_end,freq,daysinmonth etc 
 
 Model Identification
 
@@ -41,4 +41,4 @@ Potential shortcomings
 We could have identified more number of Features
 
 Possible improvements
-We can try other Models like ARIMA(Autoregressive Integrated Moving Average )
+We can try other algorithms like XGBoost, ARIMA(Autoregressive Integrated Moving Average ) to compare error rate
