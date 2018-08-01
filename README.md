@@ -5,6 +5,7 @@ Predict 3 months of item sales at different stores
 
 Steps
 Data Analysis
+
 Data Cleansing
 Feature Engineering
 Model Identification
