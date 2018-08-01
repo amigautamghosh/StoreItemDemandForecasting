@@ -42,10 +42,89 @@ B.	Categorical features
 
 Feature Engineering
 
-We have used a maximum of 16 features.
+We have used a maximum of  50 features like 
 
-Date: We categorised  this field into weekofyear,dayofweek,day,weekday,weekday_name,dayofyear,quarter,is_month_start,is_month_end,is_quarter_start,is_quarter_end,is_year_start,is_year_end,freq,daysinmonth etc 
+store 
 
+item
+
+year 
+
+month
+
+day 
+
+weekofyear 
+
+dayofweek 
+
+dayofyear
+
+quarter 
+
+weekend 
+
+weekday_name_Friday 
+
+weekday_name_Monday
+
+weekday_name_Saturday 
+
+weekday_name_Sunday 
+
+weekday_name_Thursday 
+ 
+weekday_name_Tuesday 
+
+weekday_name_Wednesday 
+ 
+mean-store-item 
+ 
+median-store-item
+ 
+mean-month-item 
+
+median-month-item 
+
+sum-month-item
+
+median-month-store
+
+mean-month-store
+
+sum-month-store
+
+mean-item 
+
+median-item
+
+mean-store 
+ 
+median-store
+
+mean-month-item-store
+
+mean-weekofyear-item-store
+
+median-weekofyear-item-store
+
+sum-weekofyear-item-store
+
+mean-quarter-store
+
+median-quarter-store
+
+sum-item-store
+
+mean-quarter-item
+
+median-quarter-item
+
+sum-item-quarter
+
+mean-weekend-item-store
+ 
+median-weekend-item-store
 
 
 Model Identification
